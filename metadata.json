@@ -1,0 +1,6 @@
+{
+  "name": "Hilton DSR",
+  "description": "Professional security reporting tool with offline persistence and 16:9 photo documentation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
